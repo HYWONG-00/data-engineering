@@ -1,2 +1,2 @@
 # data-engineering
-Data - Azure Data Factory - Data Lake(Storage) - Databrick - Azure Synapse Analytics - PowerBI
+Data - Azure Data Factory - Azure Data Lake Storage Gen 2 - Databrick - Azure Synapse Analytics - PowerBI
